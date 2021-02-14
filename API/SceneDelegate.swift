@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Flickr
+//  API
 //
 //  Created by MacBook on 25.12.2020.
 //  Copyright © 2020 ZelimkhanEdilov. All rights reserved.
